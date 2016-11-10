@@ -1,0 +1,19 @@
+{
+  "name": "mynavigation",
+  "version": "1.0.0",
+  "description": "专注于又去的导航，不多但频繁",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzju/myNavigation.git"
+  },
+  "author": "zhangzju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangzju/myNavigation/issues"
+  },
+  "homepage": "https://github.com/zhangzju/myNavigation#readme"
+}
