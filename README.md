@@ -102,9 +102,9 @@
 
 ## Girl && Gay
 
-1. [Mekong]: hey，girl~
-2. [reddit]: 对我来说，他出现在这一栏
-3. [4chan]: I bet U knows.
+1. [Mekong](): hey，girl~
+2. [reddit](): 对我来说，他出现在这一栏
+3. [4chan](): I bet U knows.
 
 
 
