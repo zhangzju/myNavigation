@@ -23,7 +23,7 @@
 1. [新浪体育](http://sports.sina.com)：只看信息就好，不要看评论，千万注意
 2. [虎扑](http://nba.hupu.com/)：篮球类的积累明显好于其他的
 3. [体坛+](http://www.titan24.com/)：还是深度优先吧
-4. [BBC]()：如果你关注NFL，板球或者其他的什么的话
+4. [BBC](http://www.bbc.co.uk/news)：如果你关注NFL，板球或者其他的什么的话
 
 
 5. [拉勾网](https://www.lagou.com/): 只关注互联网
@@ -31,29 +31,29 @@
 
 ## Social Network
 
-1. [微博]()：我觉得他更应该归入上一个版块
-2. [知乎]()：恩，有深度的撕逼总比漫无目的的好
-3. [medium]()：哦，这可是个不错的玩意儿
-4. [twitter]()：他和微博没什么大差别，或许尺度大一些
-5. [tumblr]()：看点图片，什么样的都有
+1. [微博](http://weibo.com/)：我觉得他更应该归入上一个版块
+2. [知乎](https://www.zhihu.com/)：恩，有深度的撕逼总比漫无目的的好
+3. [medium](https://medium.com/)：哦，这可是个不错的玩意儿
+4. [twitter](https://twitter.com/)：他和微博没什么大差别，或许尺度大一些
+5. [tumblr](https://www.tumblr.com/)：看点图片，什么样的都有
 
 
 
 ## 技术大牛们的博客
 
-1. [知乎专栏]()：前端外刊评论
+1. [知乎专栏](https://zhuanlan.zhihu.com/)：前端外刊评论
 2. [张鑫旭的博客]()：看看张含韵也好
 3. [Alloy Team]()：来自鹅厂，那些热门的玩意儿，他们总有不错的复制品
 4. [奇舞团]()：据说是最大，不知道是人最多还是，个头最大
-5. [NEC]()：总有人问__regular.js__得不到很好的推广
+5. [NEC]()：总有人问 __regular.js__ 得不到很好的推广
 
 
 
 ## 常用的文档
 
-1. [vue.js]()以及其他
+1. [vue.js](http://cn.vuejs.org/)以及他们的家族
 2. [React]()和[React native]()
-3. [Next.js]()与[Nuxt.js](): 我想他们会很快流行的
+3. [Next.js](https://zeit.co/blog/next)与[Nuxt.js](https://nuxtjs.org/): 我想他们会很快流行的
 4. [Redux]()：恩，就是你了
 5. [Android China]()： 喔，这个都不用翻墙诶
 6. [Django]()：据说很难找
@@ -102,7 +102,7 @@
 
 ## Girl && Gay
 
-1. [Mekong](): hey，girl~
+1. [Meikong](): hey，girl~
 2. [reddit](): 对我来说，他出现在这一栏
 3. [4chan](): I bet U knows.
 
